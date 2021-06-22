@@ -1,0 +1,8 @@
+D:\Desarrollo\TCPos\Back\biz.aldea\bin\Debug\netstandard2.0\biz.tcpos.deps.json
+D:\Desarrollo\TCPos\Back\biz.aldea\bin\Debug\netstandard2.0\biz.tcpos.dll
+D:\Desarrollo\TCPos\Back\biz.aldea\bin\Debug\netstandard2.0\biz.tcpos.pdb
+D:\Desarrollo\TCPos\Back\biz.aldea\obj\Debug\netstandard2.0\biz.tcpos.AssemblyInfoInputs.cache
+D:\Desarrollo\TCPos\Back\biz.aldea\obj\Debug\netstandard2.0\biz.tcpos.AssemblyInfo.cs
+D:\Desarrollo\TCPos\Back\biz.aldea\obj\Debug\netstandard2.0\biz.tcpos.csproj.CoreCompileInputs.cache
+D:\Desarrollo\TCPos\Back\biz.aldea\obj\Debug\netstandard2.0\biz.tcpos.dll
+D:\Desarrollo\TCPos\Back\biz.aldea\obj\Debug\netstandard2.0\biz.tcpos.pdb

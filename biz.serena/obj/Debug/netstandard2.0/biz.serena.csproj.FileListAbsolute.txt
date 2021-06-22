@@ -1,0 +1,8 @@
+D:\Desarrollo\Serena\Back\biz.aldea\bin\Debug\netstandard2.0\biz.serena.deps.json
+D:\Desarrollo\Serena\Back\biz.aldea\bin\Debug\netstandard2.0\biz.serena.dll
+D:\Desarrollo\Serena\Back\biz.aldea\bin\Debug\netstandard2.0\biz.serena.pdb
+D:\Desarrollo\Serena\Back\biz.aldea\obj\Debug\netstandard2.0\biz.serena.AssemblyInfoInputs.cache
+D:\Desarrollo\Serena\Back\biz.aldea\obj\Debug\netstandard2.0\biz.serena.AssemblyInfo.cs
+D:\Desarrollo\Serena\Back\biz.aldea\obj\Debug\netstandard2.0\biz.serena.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Serena\Back\biz.aldea\obj\Debug\netstandard2.0\biz.serena.dll
+D:\Desarrollo\Serena\Back\biz.aldea\obj\Debug\netstandard2.0\biz.serena.pdb

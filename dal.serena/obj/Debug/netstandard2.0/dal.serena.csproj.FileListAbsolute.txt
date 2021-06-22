@@ -1,0 +1,12 @@
+D:\Desarrollo\Serena\Back\dal.aldea\bin\Debug\netstandard2.0\dal.serena.deps.json
+D:\Desarrollo\Serena\Back\dal.aldea\bin\Debug\netstandard2.0\dal.serena.dll
+D:\Desarrollo\Serena\Back\dal.aldea\bin\Debug\netstandard2.0\dal.serena.pdb
+D:\Desarrollo\Serena\Back\dal.aldea\bin\Debug\netstandard2.0\biz.serena.dll
+D:\Desarrollo\Serena\Back\dal.aldea\bin\Debug\netstandard2.0\biz.serena.pdb
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.csprojAssemblyReference.cache
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.AssemblyInfoInputs.cache
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.AssemblyInfo.cs
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.csproj.CoreCompileInputs.cache
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.csproj.CopyComplete
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.dll
+D:\Desarrollo\Serena\Back\dal.aldea\obj\Debug\netstandard2.0\dal.serena.pdb

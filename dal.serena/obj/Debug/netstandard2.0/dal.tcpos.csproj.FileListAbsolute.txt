@@ -1,0 +1,12 @@
+D:\Desarrollo\TCPos\Back\dal.aldea\bin\Debug\netstandard2.0\dal.tcpos.deps.json
+D:\Desarrollo\TCPos\Back\dal.aldea\bin\Debug\netstandard2.0\dal.tcpos.dll
+D:\Desarrollo\TCPos\Back\dal.aldea\bin\Debug\netstandard2.0\dal.tcpos.pdb
+D:\Desarrollo\TCPos\Back\dal.aldea\bin\Debug\netstandard2.0\biz.tcpos.dll
+D:\Desarrollo\TCPos\Back\dal.aldea\bin\Debug\netstandard2.0\biz.tcpos.pdb
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.csprojAssemblyReference.cache
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.AssemblyInfoInputs.cache
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.AssemblyInfo.cs
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.csproj.CoreCompileInputs.cache
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.csproj.CopyComplete
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.dll
+D:\Desarrollo\TCPos\Back\dal.aldea\obj\Debug\netstandard2.0\dal.tcpos.pdb

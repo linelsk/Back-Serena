@@ -1,0 +1,62 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup Label="Globals">
+    <SccProjectName></SccProjectName>
+    <SccProvider></SccProvider>
+    <SccAuxPath></SccAuxPath>
+    <SccLocalPath></SccLocalPath>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>094dc198-559d-4d7b-9894-2c3681f1a150</UserSecretsId>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+    <AssemblyName>api.serena</AssemblyName>
+    <RootNamespace>api.serena</RootNamespace>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.5" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="3.1.5" />
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.10.9" />
+    <PackageReference Include="NLog.Web.AspNetCore" Version="4.9.2" />
+    <PackageReference Include="Swashbuckle.AspNetCore.Swagger" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerGen" Version="5.5.1" />
+    <PackageReference Include="Swashbuckle.AspNetCore.SwaggerUI" Version="5.5.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\biz.aldea\biz.serena.csproj" />
+    <ProjectReference Include="..\dal.aldea\dal.serena.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Files\EntryVisa\" />
+    <Folder Include="Files\LocalDocumentation\" />
+    <Folder Include="Files\DocumentManagement\" />
+    <Folder Include="Files\Assignee\" />
+    <Folder Include="Files\Dependent\" />
+    <Folder Include="Files\Appointment\" />
+    <Folder Include="Files\ClientProfile\" />
+    <Folder Include="Files\Country\" />
+    <Folder Include="Files\Task\" />
+    <Folder Include="Files\Scalate\" />
+    <Folder Include="Files\VisaDeregistration\" />
+    <Folder Include="Files\WorkPermit\" />
+    <Folder Include="Files\RequestInformation\" />
+    <Folder Include="Files\Pets\" />
+    <Folder Include="Utility\" />
+    <Folder Include="wwwroot\" />
+  </ItemGroup>
+
+
+</Project>
